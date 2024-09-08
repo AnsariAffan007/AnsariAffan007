@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Redux, and making projects using it.**
 
-- 🌱 I’m currently learning **backend architectures like MVC in NodeJs.**
+- 🌱 I’m currently learning **NextJS.**
 
 - 👨‍💻 All of my projects are available at [mohammedaffan.vercel.app](mohammedaffan.vercel.app)
 
